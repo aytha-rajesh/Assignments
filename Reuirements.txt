@@ -1,5 +1,0 @@
-Requirements
-
-Python-3.7
-Opencv-4
-keras and Tensorflow-2.1
